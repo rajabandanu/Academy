@@ -4,7 +4,9 @@ Astro Man is a 2D *Flappy Bird*-style game built with **Python** and **Pygame**.
 
 ## 🎮 Screenshots
 
-<p align="center"> <img src="screenshots/screenshot.png" width="500" alt="screenshot">  </p>
+<p align="center">
+  <img src="screenshots/screenshot.png" alt="Astro Man Screenshots">
+</p>
 
 ## 📝 Short Review
 
