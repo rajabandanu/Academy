@@ -2,6 +2,7 @@
 
 A short walkthrough of the Snake Game code built with Python + Pygame.
 
+![Tampilan Snake Game](snakegame.png)
 ## How It Works
 
 ### 1. Initial Setup
